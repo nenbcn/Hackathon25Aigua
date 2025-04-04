@@ -51,10 +51,5 @@ Siempre revisa las sugerencias proporcionadas por GitHub Copilot. Asegúrate de 
 #### Ajusta las Configuraciones:
 Ajusta las configuraciones de GitHub Copilot según tus necesidades. Puedes cambiar la cantidad de sugerencias, el idioma de preferencia y más.
 
-## Documentos de Referencia
-- README.md en la carpeta MICA
-- Ideas de proyectos para la hackathon
-- Documento de trabajo hackaton MICA
-
 ## Conclusión
 GitHub Copilot es una herramienta poderosa que puede mejorar significativamente tu productividad en diversas tareas, no solo en la generación de código. Siguiendo estas recomendaciones, puedes aprovechar al máximo sus capacidades.
