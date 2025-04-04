@@ -9,7 +9,7 @@ GitHub Copilot es una herramienta de inteligencia artificial que ayuda a los des
 
 #### Instalación del Plugin:
 Asegúrate de que tienes el plugin de GitHub Copilot instalado en tu editor de código. Actualmente, GitHub Copilot está disponible para Visual Studio Code, Visual Studio, Neovim y JetBrains.
-
+ 
 #### Inicio de Sesión:
 Inicia sesión en tu cuenta de GitHub desde el editor de código para activar GitHub Copilot.
 
