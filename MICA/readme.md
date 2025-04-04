@@ -11,7 +11,6 @@ La idea es usar GitHub Copilot para hacer preguntas y desarrollar nuevos temas s
 - **Data Analysis**: Aquí encontrarás datos reales y etiquetados de consumo de agua residencial, y scripts para analizar y visualizarlos.
 - **Documentos Soporte**: Aquí encontrarás documentos relevantes que se pueden usar como referencia.
 
-
 ## Cómo Contribuir
 
 1. Revisa los documentos en la carpeta `Documentos_Soporte`.
